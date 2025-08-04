@@ -11,6 +11,12 @@ as well as one of the lead contributors on the
 I [self-host my code](https://code.crute.us). What you will find here
 is a tiny subset of my work. There are a few write-only mirrors, some
 collaborations, and a bunch of archives of old but possibly interesting
-projects. My pinned projects are actively maintained.
+projects.
 
-**Last Updated:** 2022-12-06
+Any projects that are not archived are still actively maintained, even
+if there are few commits to them recently. A lot of the software here
+is stable or doesn't need to change all that often. Contributions are
+always welcomed; if you're using this software feel free to get in touch
+with me.
+
+**Last Updated:** 2025-08-04
